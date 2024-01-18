@@ -1,0 +1,93 @@
+.container {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 1278px;
+  height: 630px;
+  margin-left: 84px;
+  margin-top: 114px;
+}
+.image0 {
+  display: flex;
+  position: relative;
+  width: 1278px;
+  height: 303px;
+}
+.span00 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+  font-size: 36px;
+  width: 577px;
+  height: 44px;
+  margin-left: 343px;
+  margin-top: -195px;
+}
+.span01 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 371px;
+  height: 44px;
+  font-weight: 300;
+  font-size: 36px;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 438px;
+  margin-top: 11px;
+}
+.image1 {
+  display: flex;
+  position: relative;
+  width: 174px;
+  height: 174px;
+  margin-top: 70px;
+  margin-left: 69px;
+}
+.image2 {
+  display: flex;
+  position: relative;
+  width: 174px;
+  height: 174px;
+  margin-top: -195px;
+  margin-left: 331px;
+}
+.image3 {
+  display: flex;
+  position: relative;
+  width: 263px;
+  height: 263px;
+  margin-top: -220px;
+  margin-left: 600px;
+}
+.image4 {
+  display: flex;
+  position: relative;
+  width: 282px;
+  height: 282px;
+  margin-left: 923px;
+  margin-top: -280px;
+}
+.btn_bg{
+    display: flex;
+    position: relative;
+    background: linear-gradient(267.61deg, #C0B7E8 -0.6%, #8176AF 98.31%);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 601px;
+    cursor: pointer;
+    justify-content: center;
+    border: 10px solid rgba(4, 3, 3, 0.872) ;
+
+}
+.btn{
+    display: flex;
+    position: relative;
+    width: 60px;
+    height: 60px;
+    margin-top: 7px;
+    margin-left: -1.092px;
+}

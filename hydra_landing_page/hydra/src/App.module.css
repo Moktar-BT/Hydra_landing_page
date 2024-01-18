@@ -1,0 +1,12 @@
+body{
+  background:rgba(48, 44, 66, 1);
+}
+@media screen and (max-width: 1360px){
+  body{
+    width:1360px;
+    margin-right: 84px;
+  
+  }
+
+}
+

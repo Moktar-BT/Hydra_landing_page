@@ -1,0 +1,135 @@
+.container {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 1272px;
+  height: 509px;
+  margin-left: 87px;
+  color: rgba(255, 255, 255, 1);
+}
+.span01 {
+  display: flex;
+  position: relative;
+  width: 306px;
+  height: 44px;
+  font-weight: 700;
+  font-size: 36px;
+}
+.span02 {
+  display: flex;
+  position: relative;
+  margin-top: 15px;
+  width: 321px;
+  height: 44px;
+  font-weight: 300;
+  font-size: 36px;
+}
+.arr {
+  display: flex;
+  position: relative;
+  width: 228px;
+  height: 100px;
+  margin-left: 333px;
+  margin-top: -72.5px;
+}
+.par {
+  display: flex;
+  position: relative;
+  width: 652px;
+  height: 98px;
+  padding-left: 623px;
+  margin-top: -112px;
+}
+.num {
+  display: flex;
+  position: relative;
+  width: 159px;
+  height: 159px;
+  background: linear-gradient(251.27deg, #c0b7e8 12.87%, #8176af 89.33%);
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  color: rgba(52, 48, 69, 1);
+  font-weight: 700;
+  font-size: 64px;
+}
+.botside {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  margin-left: -1213px;
+  margin-top: 220px;
+  width: 100%;
+}
+.sarr01 {
+  display: flex;
+  position: relative;
+  margin-left: -1290px;
+  margin-top: -98px;
+}
+.span10 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 400px;
+  margin-left: -1200px;
+  width: 187px;
+  height: 64px;
+}
+.span20 {
+  display: flex;
+  position: relative;
+  font-weight: 700;
+  font-size: 24px;
+  width: 140px;
+  height: 64px;
+  margin-left: -861px;
+  margin-top: -70px;
+}
+.sarr02 {
+  display: flex;
+  position: relative;
+  margin-left: -945px;
+  margin-top: -95px;
+}
+.span30 {
+  display: flex;
+  position: relative;
+  font-weight: 700;
+  font-size: 24px;
+  width: 157px;
+  height: 64px;
+  margin-left: -570px;
+  margin-top: -66px;
+}
+.sarr03 {
+  display: flex;
+  position: relative;
+  margin-left: -655px;
+  margin-top: -96px;
+}
+.span40 {
+  display: flex;
+  position: relative;
+  width: 117px;
+  height: 64px;
+  font-weight: 700;
+  font-size: 24px;
+  margin-left: -269px;
+  margin-top: -68px;
+}
+.sarr04 {
+  display: flex;
+  position: relative;
+  margin-left: -355px;
+  margin-top: -96px;
+}
+.botside{
+  background-image: url('../../assets/vector15.png');
+  background-size: contain ;
+  background-repeat: no-repeat;
+  
+
+  
+}

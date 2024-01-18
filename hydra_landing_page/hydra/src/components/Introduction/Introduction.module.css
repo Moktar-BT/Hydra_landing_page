@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Montserrat:ital,wght@0,100;1,900&family=Roboto:ital,wght@1,300;1,900&display=swap");
+
+.container {
+  display: flex;
+  position: relative;
+  margin-top: 90px;
+  margin-left: 84px;
+  height: 756px;
+  width: 1272px;
+}
+.intro {
+  font-family: "Montserrat";
+  width: 298px;
+  height: 44px;
+  color: rgba(255, 255, 255, 1);
+  font-weight: bolder;
+  font-size: 36px;
+}
+.to_hydra {
+  display: flex;
+  position: relative;
+  padding-top: 10px;
+  font-family: "Montserrat";
+  color: rgba(255, 255, 255, 1);
+  width: 251px;
+  height: 44px;
+  font-size: 36px;
+}
+.arr {
+  display: flex;
+  position: relative;
+  width: 228px;
+  height: 100px;
+  margin-left: 281px;
+  margin-top: -72.5px;
+}
+.mask_gr {
+  padding-top: 97px;
+  display: flex;
+  position: relative;
+  width: 524px;
+  height: 557px;
+}
+.text1 {
+  display: flex;
+  position: relative;
+  width: 652px;
+  height: 98px;
+  font-family: "Montserrat";
+  color: rgba(255, 255, 255, 1);
+  margin-left: 82px;
+}
+.about {
+  font-family: "Montserrat";
+  display: flex;
+  position: relative;
+  width: 136px;
+  height: 44px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 36px;
+  font-weight: bolder;
+  margin-top: 151px;
+  margin-left: 106px;
+}
+.hydra_vr {
+  font-family: "Montserrat";
+  display: flex;
+  position: relative;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 106px;
+  font-size: 36px;
+}
+.text2 {
+  font-family: "Montserrat";
+  display: flex;
+  position: relative;
+  width: 630px;
+  height: 228px;
+  color: rgba(255, 255, 255, 1);
+  margin-left: 106px;
+}
+.btn {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  border-radius: 40px;
+  height: 55px;
+  width: 214px;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-weight: bold;
+  margin-left: 106px;
+}

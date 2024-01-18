@@ -1,0 +1,209 @@
+.container00 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 1270px;
+  height: 399px;
+  margin-left: 86px;
+  color: rgba(255, 255, 255, 1);
+
+  margin-top: 122.5px;
+}
+.container10 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 1270px;
+  height: 269px;
+
+  border-bottom: 2px solid gray;
+}
+.container20 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 1270px;
+  height: 68px;
+
+  margin-top: 271px;
+  margin-left: -100%;
+}
+.logo01 {
+  display: flex;
+  position: relative;
+  width: 185px;
+  height: 187px;
+  padding-right: 100px;
+}
+.text1 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 134px;
+  height: 192px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19.5px;
+  padding-left: 81px;
+  padding-right: 104px;
+  /* border-right: 6px solid gray; */
+} .text1::before{
+    position: absolute;
+    height: 100%;
+    width: 5px;
+    border-radius: 50%;
+    right:0;
+    top:0;
+    content: "";
+    background: linear-gradient(179.87deg, #343045 0.47%, #343045 0.47%, #C0B7E8 35.21%, #8176AF 68.91%, #343045 99.5%);
+    
+    
+}
+.text2 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 109px;
+  height: 192px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19.5px;
+  padding-left: 107px;
+  padding-right: 104px;
+}
+.logo_border{
+    position:relative;
+}
+.text1::after{
+    position: absolute;
+    height: 100%;
+    width: 5px;
+    border-radius: 50%;
+    left:0;
+    top:0;
+    content: "";
+    background: linear-gradient(179.87deg, #343045 0.47%, #343045 0.47%, #C0B7E8 35.21%, #8176AF 68.91%, #343045 99.5%);
+} 
+
+.text2::before {
+    position: absolute;
+    height: 100%;
+    width: 5px;
+    border-radius: 50%;
+    right:0;
+    top:0;
+    content: "";
+    background: linear-gradient(179.87deg, #343045 0.47%, #343045 0.47%, #C0B7E8 35.21%, #8176AF 68.91%, #343045 99.5%);
+} 
+.container11 {
+  display: flex;
+  position: relative;
+  font-family: "Montserrat";
+  width: 377px;
+  height: px;
+}
+.text21 {
+  display: flex;
+  position: relative;
+  width: 1400px;
+  height: 3px;
+  font-weight: 700;
+  font-size: 16px;
+  padding-left: 71px;
+}
+
+.logo {
+  margin-top: 59px;
+  margin-left: -130px;
+  padding-left: 45px;
+  padding-bottom: 49px;
+}
+.btn {
+  font-family: "Montserrat";
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  position: relative;
+  border-radius: 40px;
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  width: 214px;
+  height: 48px;
+  margin-top: 84px;
+  color: black;
+  margin-left: -315px;
+  margin-top: -2px;
+}
+.copyright{
+    display: flex;
+    position: relative;
+    width: 693px;
+    height: 17px;
+    font-family:"Montserrat" ;
+    font-weight: 700;
+    font-size: 14px;
+    color:rgba(255, 255, 255, 1) ;
+    padding-left: 289px;
+    padding-top: 49px;
+
+}
+.links{
+    display: flex;
+    position: relative;
+    width: 134px;
+    height: 30px;
+    margin-left: 20px;
+}
+.link2{
+    display: flex;
+    position: relative;
+    margin-left: -56.9px;
+    margin-top: 40px;
+}
+.link3{
+    display: flex;
+    position: relative;
+    margin-left: -78px;
+    margin-top: 80px;
+}
+.link4{
+    display: flex;
+    position: relative;
+    margin-left: -129px;
+    margin-top: 120px;
+    width: 120px;
+}
+.link5{
+    display: flex;
+    position: relative;
+    margin-left: -119px;
+    margin-top: 160px;
+    height: 20px;
+    width: 120px;
+}
+.link20{
+    display: flex;
+    position: relative;
+    width: 120px;
+    height: 20px;
+    margin-top: 40px;
+    margin-left: -41px;    
+}
+.link30{
+    display: flex;
+    position: relative;
+    width: 120px;
+    height: 20px;
+    margin-top: 80px;
+    margin-left: -111px;    
+}
+.link40{
+    display: flex;
+    position: relative;
+    width: 120px;
+    height: 20px;
+    margin-top: 120px;
+    margin-left: -107px;
+
+
+}
