@@ -29,7 +29,7 @@ const Navbar = ({thec,aboutRef,join_hydra,services,how_to}) => {
         <button className={styles.btn1}>CONTACT US</button>
         <button className={styles.btn2} onClick={scrollfunction5}>JOIN HYDRA</button>
       </div>   
-      <button className={styles.btn_Hamburger_Button}><img src={Hamburger_Button} /></button>
+      {/* <button className={styles.btn_Hamburger_Button}><img src={Hamburger_Button} /></button> */}
 
     </div>
   );

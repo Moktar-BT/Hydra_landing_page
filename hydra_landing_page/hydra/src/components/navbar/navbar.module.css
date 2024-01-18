@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Montserrat:ital,wght@0,100;1,900&family=Roboto:ital,wght@1,300;1,900&display=swap");
 .global_nav_bar{
-  display:flex;
-
+  display:block;
+  position:relative;
 }
 
 .logo {
@@ -13,7 +13,6 @@
   height: 103px;
   cursor: pointer;
 }
-
 .hydra {
   display: flex;
   width: 76px;
@@ -77,14 +76,13 @@
   color: black;
   font-weight: bold;
 }
-.btn_Hamburger_Button{
+/* .btn_Hamburger_Button{
   width: 33px;
   height: 26px;
   background-color: transparent;
   display: block;
-
-}
-@media screen and (max-width:425px) {
+} */
+/* @media screen and (max-width:425px) {
   .links,.btn1,.btn2{
     display: none;
   }
@@ -93,17 +91,17 @@
     width: 100%;
   }
   .btn_Hamburger_Button{
-    /* display: flex;
-    position: ;
+    display: flex;
     margin-left: 85.5%;
-    margin-top: -60px; */
+    margin-top: -60px; 
     display: flex;
     position: absolute;
     right:90%;
 
   }
+} */
 
 
-}
+
 
   
